@@ -1,6 +1,17 @@
+<table>
+<tr>
+<td>
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArseniyDuck&layout=compact&theme=nord)
+
+</td>
+<td>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArseniyDuck&show_icons=true&theme=nord)
 
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
