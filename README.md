@@ -7,6 +7,7 @@ I am a full stack self-taught programmer wanting to improve my programming skill
 ## Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArseniyDuck&show_icons=true&theme=nord)
+![](https://raw.githubusercontent.com/ArseniyDuck/github-stats-transparent/output/generated/languages.svg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArseniyDuck&layout=compact&theme=nord)
 
 <details>
