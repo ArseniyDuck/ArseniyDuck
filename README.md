@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my profile ❤️</h1>
 
-### 👋🏻 おい! Hi, I am Arseniy
+### 👋🏻 やあ! Hi, I am Arseniy
 
 ## Stats
 
