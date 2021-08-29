@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArseniyDuck&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArseniyDuck&layout=compact&theme=blueberry)](https://github.com/ArseniyDuck/github-readme-stats)
 
 <table>
 <tr>
