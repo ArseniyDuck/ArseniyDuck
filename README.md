@@ -1,3 +1,6 @@
+![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/languages.svg)
+
 <table>
 <tr>
 <th> My Codewars stats </th>
