@@ -1,10 +1,13 @@
-<details>
-  <summary>My Stats</summary>  
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArseniyDuck&show_icons=true&theme=nord)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArseniyDuck&layout=compact&theme=nord)
-  
+# Welcome to my profile ❤️
 
+### Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArseniyDuck&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArseniyDuck&layout=compact&theme=nord)
+
+<details>
+  <summary>More stats</summary>
+  
   <table>
   <tr>
   <th> My Codewars account </th>
