@@ -2,6 +2,8 @@
 
 ### 👋🏻 やあ! Hi, I am Arseniy
 
+I am a full stack self-taught programmer wanting to improve my programming skills, constantly develop and gain experience.
+
 ## Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArseniyDuck&show_icons=true&theme=nord)
