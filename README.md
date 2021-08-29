@@ -13,5 +13,6 @@ I am a full stack self-taught programmer wanting to improve my programming skill
   <summary>More stats</summary>
   
   [![Profile badge](https://www.codewars.com/users/ArseniyDuck/badges/large)](https://www.codewars.com/users/ArseniyDuck)
+  <br>
   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ArseniyDuck&theme=dark)](https://leetcode.com/ArseniyDuck/)
 </details>
