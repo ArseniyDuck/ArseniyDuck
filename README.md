@@ -1,5 +1,7 @@
 <h1 align="center">Welcome to my profile ❤️</h1>
 
+### 👋🏻 おい! Hi, I am Arseniy
+
 ## Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArseniyDuck&show_icons=true&theme=nord)
