@@ -1,34 +1,28 @@
-<table>
-<tr>
-<td>
+<details>
+  <summary>My Stats</summary>
+ 
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArseniyDuck&show_icons=true&theme=nord)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArseniyDuck&layout=compact&theme=nord)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArseniyDuck&layout=compact&theme=nord)
 
-</td>
-<td>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArseniyDuck&show_icons=true&theme=nord)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<th> My Codewars stats </th>
-<th> My LeetCode stats </th>
-</tr>
-<tr>
-<td>
+  <table>
+  <tr>
+  <th> My Codewars account </th>
+  <th> My LeetCode account </th>
+  </tr>
+  <tr>
+  <td>
 
 
-[![Profile badge](https://www.codewars.com/users/ArseniyDuck/badges/large)](https://www.codewars.com/users/ArseniyDuck)
+  [![Profile badge](https://www.codewars.com/users/ArseniyDuck/badges/large)](https://www.codewars.com/users/ArseniyDuck)
 
-</td>
-<td>
+  </td>
+  <td>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ArseniyDuck&theme=dark)](https://leetcode.com/ArseniyDuck/)
+  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ArseniyDuck&theme=dark)](https://leetcode.com/ArseniyDuck/)
 
-</td>
-</tr>
-</table>
+  </td>
+  </tr>
+  </table>
+  
+</details>
