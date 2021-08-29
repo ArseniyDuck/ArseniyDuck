@@ -1,5 +1,5 @@
-![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/ArseniyDuck/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/ArseniyDuck/github-stats-transparent/output/generated/languages.svg)
 
 <table>
 <tr>
