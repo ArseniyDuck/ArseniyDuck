@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my profile ❤️</h1>
 
-### 👋🏻 やあ! Hi, I am Arseniy
+### 👋🏻 やあ! Hi, I am Arseniy!
 
 I am a full stack self-taught programmer wanting to improve my programming skills, constantly develop and gain experience.
 
